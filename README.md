@@ -41,7 +41,7 @@ Distribution of the features:
 
 ![image](https://github.com/ShyamashreeGhorai1/EDA-of-Restaurant-Data/assets/131132617/1d4b95fc-07d7-4ec9-9da7-856831c38a27)
 
-## Correlation between the features:
+Correlation between the features:
 
 ![image](https://github.com/ShyamashreeGhorai1/EDA-of-Restaurant-Data/assets/131132617/93d27dd9-90d0-4868-ab79-05db1ed7f029)
 
