@@ -56,13 +56,21 @@ Top 10 cities with most number of restaurants
 Top 10 cuisines with highest vote:
 
 Cuisines Italian, American, Pizza -> 10934
+
 American, Burger, Café -> 9667
+
 Continental, American, Asian, North Indian  ->7931
+
 Continental, North Indian -> 7574 
+
 European, Mediterranean, North Indian -> 6907 
+
 North Indian, Chinese -> 5966 
+
 Finger Food, North Indian, Italian, Continental, Thai, South Indian -> 5705 
+
 North Indian, European, Mediterranean -> 5385 
+
 Chinese, North Indian 5288 South Indian -> 5172
 
 ## Conclusion
